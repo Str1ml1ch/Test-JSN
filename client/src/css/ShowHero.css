@@ -1,0 +1,16 @@
+.Hero
+{
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.EditForms
+{
+    background: rgba( 0,0,0,.6) !important;
+    color: wheat !important;
+}
+

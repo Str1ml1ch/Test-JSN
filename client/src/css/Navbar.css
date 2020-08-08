@@ -1,0 +1,11 @@
+.NavLinks
+{
+    color: rgba(255,255,255,.5) !important;
+    text-decoration: none !important;
+    outline: none;
+    border: none;
+}
+.NavLinks.active
+{
+    color: white !important;
+}
